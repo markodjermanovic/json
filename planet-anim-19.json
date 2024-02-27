@@ -1,0 +1,45 @@
+{"frames": {
+
+"Comp 2_00076.jpg":
+{
+	"frame": {"x":1,"y":1,"w":1080,"h":608},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":608},
+	"sourceSize": {"w":1080,"h":608}
+},
+"Comp 2_00077.jpg":
+{
+	"frame": {"x":1083,"y":1,"w":1080,"h":608},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":608},
+	"sourceSize": {"w":1080,"h":608}
+},
+"Comp 2_00078.jpg":
+{
+	"frame": {"x":1,"y":611,"w":1080,"h":608},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":608},
+	"sourceSize": {"w":1080,"h":608}
+},
+"Comp 2_00079.jpg":
+{
+	"frame": {"x":611,"y":1083,"w":1080,"h":608},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":608},
+	"sourceSize": {"w":1080,"h":608}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "planet-anim-19.jpg",
+	"format": "RGB888",
+	"size": {"w":1692,"h":1692},
+	"scale": "1",
+	"related_multi_packs": [ "planet-anim-0.json", "planet-anim-1.json", "planet-anim-2.json", "planet-anim-3.json", "planet-anim-4.json", "planet-anim-5.json", "planet-anim-6.json", "planet-anim-7.json", "planet-anim-8.json", "planet-anim-9.json", "planet-anim-10.json", "planet-anim-11.json", "planet-anim-12.json", "planet-anim-13.json", "planet-anim-14.json", "planet-anim-15.json", "planet-anim-16.json", "planet-anim-17.json", "planet-anim-18.json", "planet-anim-20.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:02a0472621c418eab7e8f7b3066026f9:7d28d6355d5730692ab7936273ad0522:4ff09c854e8c6fad1160459675995775$"
+}
+}

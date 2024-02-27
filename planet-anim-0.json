@@ -1,0 +1,48 @@
+{"frames": {
+
+"Comp 2_00000.jpg":
+{
+	"frame": {"x":1,"y":1,"w":1080,"h":608},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":608},
+	"sourceSize": {"w":1080,"h":608}
+},
+"Comp 2_00001.jpg":
+{
+	"frame": {"x":1083,"y":1,"w":1080,"h":608},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":608},
+	"sourceSize": {"w":1080,"h":608}
+},
+"Comp 2_00002.jpg":
+{
+	"frame": {"x":1,"y":611,"w":1080,"h":608},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":608},
+	"sourceSize": {"w":1080,"h":608}
+},
+"Comp 2_00003.jpg":
+{
+	"frame": {"x":611,"y":1083,"w":1080,"h":608},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":608},
+	"sourceSize": {"w":1080,"h":608}
+}},
+"animations": {
+	"Comp 2": ["Comp 2_00000.jpg","Comp 2_00001.jpg","Comp 2_00002.jpg","Comp 2_00003.jpg","Comp 2_00004.jpg","Comp 2_00005.jpg","Comp 2_00006.jpg","Comp 2_00007.jpg","Comp 2_00008.jpg","Comp 2_00009.jpg","Comp 2_00010.jpg","Comp 2_00011.jpg","Comp 2_00012.jpg","Comp 2_00013.jpg","Comp 2_00014.jpg","Comp 2_00015.jpg","Comp 2_00016.jpg","Comp 2_00017.jpg","Comp 2_00018.jpg","Comp 2_00019.jpg","Comp 2_00020.jpg","Comp 2_00021.jpg","Comp 2_00022.jpg","Comp 2_00023.jpg","Comp 2_00024.jpg","Comp 2_00025.jpg","Comp 2_00026.jpg","Comp 2_00027.jpg","Comp 2_00028.jpg","Comp 2_00029.jpg","Comp 2_00030.jpg","Comp 2_00031.jpg","Comp 2_00032.jpg","Comp 2_00033.jpg","Comp 2_00034.jpg","Comp 2_00035.jpg","Comp 2_00036.jpg","Comp 2_00037.jpg","Comp 2_00038.jpg","Comp 2_00039.jpg","Comp 2_00040.jpg","Comp 2_00041.jpg","Comp 2_00042.jpg","Comp 2_00043.jpg","Comp 2_00044.jpg","Comp 2_00045.jpg","Comp 2_00046.jpg","Comp 2_00047.jpg","Comp 2_00048.jpg","Comp 2_00049.jpg","Comp 2_00050.jpg","Comp 2_00051.jpg","Comp 2_00052.jpg","Comp 2_00053.jpg","Comp 2_00054.jpg","Comp 2_00055.jpg","Comp 2_00056.jpg","Comp 2_00057.jpg","Comp 2_00058.jpg","Comp 2_00059.jpg","Comp 2_00060.jpg","Comp 2_00061.jpg","Comp 2_00062.jpg","Comp 2_00063.jpg","Comp 2_00064.jpg","Comp 2_00065.jpg","Comp 2_00066.jpg","Comp 2_00067.jpg","Comp 2_00068.jpg","Comp 2_00069.jpg","Comp 2_00070.jpg","Comp 2_00071.jpg","Comp 2_00072.jpg","Comp 2_00073.jpg","Comp 2_00074.jpg","Comp 2_00075.jpg","Comp 2_00076.jpg","Comp 2_00077.jpg","Comp 2_00078.jpg","Comp 2_00079.jpg","Comp 2_00080.jpg","Comp 2_00081.jpg"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "planet-anim-0.jpg",
+	"format": "RGB888",
+	"size": {"w":1692,"h":1692},
+	"scale": "1",
+	"related_multi_packs": [ "planet-anim-1.json", "planet-anim-2.json", "planet-anim-3.json", "planet-anim-4.json", "planet-anim-5.json", "planet-anim-6.json", "planet-anim-7.json", "planet-anim-8.json", "planet-anim-9.json", "planet-anim-10.json", "planet-anim-11.json", "planet-anim-12.json", "planet-anim-13.json", "planet-anim-14.json", "planet-anim-15.json", "planet-anim-16.json", "planet-anim-17.json", "planet-anim-18.json", "planet-anim-19.json", "planet-anim-20.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:02a0472621c418eab7e8f7b3066026f9:7d28d6355d5730692ab7936273ad0522:4ff09c854e8c6fad1160459675995775$"
+}
+}
